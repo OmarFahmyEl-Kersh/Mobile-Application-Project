@@ -1,0 +1,16 @@
+name: quotes_app
+description: Quotes App with improved UI
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  share_plus: ^10.0.2
+
+flutter:
+  uses-material-design: true
