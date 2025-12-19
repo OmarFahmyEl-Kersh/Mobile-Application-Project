@@ -1,8 +1,9 @@
 # Quotes App
 
-Omar Fahmy
+Omar Fahmy El-gharib
 
 
-Ahmed Hassan
+Ahmed Hassan Ali
+
 
 
